@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4535aa1-77e1-4c8e-90eb-5ef25bcba041" name="Changes" comment="" />
+    <list default="true" id="e4535aa1-77e1-4c8e-90eb-5ef25bcba041" name="Changes" comment="first push">
+      <change afterPath="$PROJECT_DIR$/sorting/questions/RotateAMatrixByNinetyDegree.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,42 +19,77 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1716833695" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1716833694" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2g0GD4hE6TDcZRjcPWO4QOmdSem" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BubbleSort.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.CheckIfAnArrayIsSortedAndRotated.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.FabonacciSeries.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.FindLargestElement.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.FindLongestConsecutiveElement.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.FindNextPermutation.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.FindSecondLargestElement.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.InsertionSort.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.LargestSequenceIntegerWithSumK.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MajorityElement.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MergeKSortedLinkedList.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MergeSort.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Pallindrome.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.QuickSort.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ReArrangeArray.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortArrayOfZerosOnesAndTwos.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/samiy/OneDrive/Documents/PraticeDSA&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BubbleSort.executor": "Debug",
+    "Application.CheckIfAnArrayIsSortedAndRotated.executor": "Debug",
+    "Application.FabonacciSeries.executor": "Debug",
+    "Application.FindLargestElement.executor": "Debug",
+    "Application.FindLongestConsecutiveElement.executor": "Debug",
+    "Application.FindNextPermutation.executor": "Debug",
+    "Application.FindSecondLargestElement.executor": "Debug",
+    "Application.InsertionSort.executor": "Debug",
+    "Application.LargestSequenceIntegerWithSumK.executor": "Debug",
+    "Application.MajorityElement.executor": "Debug",
+    "Application.MergeKSortedLinkedList.executor": "Debug",
+    "Application.MergeSort.executor": "Debug",
+    "Application.Pallindrome.executor": "Debug",
+    "Application.QuickSort.executor": "Debug",
+    "Application.ReArrangeArray.executor": "Debug",
+    "Application.RotateAMatrixByNinetyDegree.executor": "Debug",
+    "Application.SelectionSort.executor": "Run",
+    "Application.SortArrayOfZerosOnesAndTwos.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/samiy/OneDrive/Documents/PraticeDSA"
   }
-}</component>
-  <component name="RunManager" selected="Application.SetMatrixZeros">
+}]]></component>
+  <component name="RunManager" selected="Application.RotateAMatrixByNinetyDegree">
     <configuration name="FindLongestConsecutiveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sorting.questions.FindLongestConsecutiveElement" />
       <module name="PraticeDSA" />
@@ -79,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.questions.MajorityElement" />
+    <configuration name="ReArrangeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.questions.ReArrangeArray" />
       <module name="PraticeDSA" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReArrangeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.questions.ReArrangeArray" />
+    <configuration name="RotateAMatrixByNinetyDegree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.questions.RotateAMatrixByNinetyDegree" />
       <module name="PraticeDSA" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateAMatrixByNinetyDegree" />
         <item itemvalue="Application.SetMatrixZeros" />
         <item itemvalue="Application.FindLongestConsecutiveElement" />
         <item itemvalue="Application.FindNextPermutation" />
         <item itemvalue="Application.ReArrangeArray" />
-        <item itemvalue="Application.MajorityElement" />
       </list>
     </recent_temporary>
   </component>
@@ -137,36 +174,43 @@
       <option name="presentableId" value="Default" />
       <updated>1714826959218</updated>
     </task>
+    <task id="LOCAL-00001" summary="first push">
+      <option name="closed" value="true" />
+      <created>1716832556625</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716832556625</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first push">
+      <option name="closed" value="true" />
+      <created>1716832794669</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716832794669</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first push" />
+    <option name="LAST_COMMIT_MESSAGE" value="first push" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Pallindrome.java</url>
-          <line>3</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/FabonacciSeries.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/FabonacciSeries.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/FabonacciSeries.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/FabonacciSeries.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/sorting/BubbleSort.java</url>
           <line>6</line>
@@ -228,11 +272,6 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LargestSequenceIntegerWithSumK.java</url>
-          <line>3</line>
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/sorting/questions/SortArrayOfZerosOnesAndTwos.java</url>
           <line>9</line>
           <option name="timeStamp" value="20" />
@@ -271,6 +310,11 @@
           <url>file://$PROJECT_DIR$/sorting/questions/FindLongestConsecutiveElement.java</url>
           <line>7</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sorting/questions/RotateAMatrixByNinetyDegree.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

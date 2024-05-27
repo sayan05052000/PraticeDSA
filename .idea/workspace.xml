@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4535aa1-77e1-4c8e-90eb-5ef25bcba041" name="Changes" comment="first push" />
+    <list default="true" id="e4535aa1-77e1-4c8e-90eb-5ef25bcba041" name="Changes" comment="first push">
+      <change afterPath="$PROJECT_DIR$/sorting/questions/RotateAMatrixByNinetyDegree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckIfAnArrayIsSortedAndRotated.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIndLeadersInAnArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindLongestConsecutiveElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FindNextPermutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MajorityElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MergeKSortedLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoveZeroes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReArrangeArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SetMatrixZeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortArrayOfZerosOnesAndTwos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StockSellBestDay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PraticeDSA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PraticeDSA/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +94,7 @@
     "Application.Pallindrome.executor": "Debug",
     "Application.QuickSort.executor": "Debug",
     "Application.ReArrangeArray.executor": "Debug",
+    "Application.RotateAMatrixByNinetyDegree.executor": "Debug",
     "Application.SelectionSort.executor": "Run",
     "Application.SortArrayOfZerosOnesAndTwos.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -86,7 +103,7 @@
     "last_opened_file_path": "C:/Users/samiy/OneDrive/Documents/PraticeDSA"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SetMatrixZeros">
+  <component name="RunManager" selected="Application.RotateAMatrixByNinetyDegree">
     <configuration name="FindLongestConsecutiveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sorting.questions.FindLongestConsecutiveElement" />
       <module name="PraticeDSA" />
@@ -113,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.questions.MajorityElement" />
+    <configuration name="ReArrangeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.questions.ReArrangeArray" />
       <module name="PraticeDSA" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReArrangeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.questions.ReArrangeArray" />
+    <configuration name="RotateAMatrixByNinetyDegree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.questions.RotateAMatrixByNinetyDegree" />
       <module name="PraticeDSA" />
       <extension name="coverage">
         <pattern>
@@ -152,24 +169,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateAMatrixByNinetyDegree" />
         <item itemvalue="Application.SetMatrixZeros" />
         <item itemvalue="Application.FindLongestConsecutiveElement" />
         <item itemvalue="Application.FindNextPermutation" />
         <item itemvalue="Application.ReArrangeArray" />
-        <item itemvalue="Application.MajorityElement" />
       </list>
     </recent_temporary>
   </component>
@@ -318,6 +324,16 @@
           <url>file://$PROJECT_DIR$/sorting/questions/FindLongestConsecutiveElement.java</url>
           <line>7</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sorting/questions/RotateAMatrixByNinetyDegree.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sorting/questions/RotateAMatrixByNinetyDegree.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
