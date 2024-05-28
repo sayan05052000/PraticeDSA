@@ -1,5 +1,6 @@
 package sorting.questions;
 
+import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -86,5 +87,6 @@ public class SetMatrixZeros {
     public static void main(String[] args) {
         int[][] matrix = {{0, 1, 1,1}, {1, 0, 1,0}, {1, 1, 1,1}};
         setZeroesOptimal(matrix);
+        System.out.println(Arrays.deepToString(matrix));
     }
 }
