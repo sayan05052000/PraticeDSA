@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4535aa1-77e1-4c8e-90eb-5ef25bcba041" name="Changes" comment="first push" />
+    <list default="true" id="e4535aa1-77e1-4c8e-90eb-5ef25bcba041" name="Changes" comment="RotateAMatrixByNinetyDegree" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +24,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -36,7 +37,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1716833695" />
+                    <option name="lastUsedInstant" value="1716924217" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -77,15 +78,19 @@
     "Application.Pallindrome.executor": "Debug",
     "Application.QuickSort.executor": "Debug",
     "Application.ReArrangeArray.executor": "Debug",
+    "Application.RotateAMatrixByNinetyDegree.executor": "Debug",
     "Application.SelectionSort.executor": "Run",
     "Application.SortArrayOfZerosOnesAndTwos.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/samiy/OneDrive/Documents/PraticeDSA"
+    "last_opened_file_path": "C:/Users/samiy/OneDrive/Documents/PraticeDSA",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SetMatrixZeros">
+  <component name="RunManager" selected="Application.RotateAMatrixByNinetyDegree">
     <configuration name="FindLongestConsecutiveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sorting.questions.FindLongestConsecutiveElement" />
       <module name="PraticeDSA" />
@@ -112,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.questions.MajorityElement" />
+    <configuration name="ReArrangeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.questions.ReArrangeArray" />
       <module name="PraticeDSA" />
       <extension name="coverage">
         <pattern>
@@ -125,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReArrangeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.questions.ReArrangeArray" />
+    <configuration name="RotateAMatrixByNinetyDegree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorting.questions.RotateAMatrixByNinetyDegree" />
       <module name="PraticeDSA" />
       <extension name="coverage">
         <pattern>
@@ -153,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateAMatrixByNinetyDegree" />
         <item itemvalue="Application.SetMatrixZeros" />
         <item itemvalue="Application.FindLongestConsecutiveElement" />
         <item itemvalue="Application.FindNextPermutation" />
         <item itemvalue="Application.ReArrangeArray" />
-        <item itemvalue="Application.MajorityElement" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716832794669</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="RotateAMatrixByNinetyDegree">
+      <option name="closed" value="true" />
+      <created>1716838115386</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716838115386</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,7 +215,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first push" />
-    <option name="LAST_COMMIT_MESSAGE" value="first push" />
+    <MESSAGE value="RotateAMatrixByNinetyDegree" />
+    <option name="LAST_COMMIT_MESSAGE" value="RotateAMatrixByNinetyDegree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -306,6 +320,31 @@
           <url>file://$PROJECT_DIR$/sorting/questions/FindLongestConsecutiveElement.java</url>
           <line>7</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sorting/questions/RotateAMatrixByNinetyDegree.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sorting/questions/RotateAMatrixByNinetyDegree.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sorting/questions/RotateAMatrixByNinetyDegree.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sorting/questions/RotateAMatrixByNinetyDegree.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sorting/questions/RotateAMatrixByNinetyDegree.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
