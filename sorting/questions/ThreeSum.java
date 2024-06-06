@@ -90,7 +90,7 @@ public class ThreeSum {
     public static void main(String[] args) {
         //-1,-1,0,1,2,4
         int[] nums = {-1,4,2,-1,0,1 };
-        // System.out.println(findThreeSumBruteForce(nums));
+        System.out.println(findThreeSumBruteForce(nums));
         System.out.println(">>>>>Better");
         System.out.println(findThreeSumBetter(nums));
         System.out.println(">>>>>Optimal");
